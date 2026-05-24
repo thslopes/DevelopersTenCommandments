@@ -1,4 +1,4 @@
-# Ten Commandments for Software Developers, or What AI won't do for you. (part I)
+# Ten Commandments for Software Developers, or What AI won't do for you. (WIP)
 Guide from an elderly developer for a good life.
 
 Picture a very beautiful introduction that made you think over your entire career as a software developer and the problems you've faced.
